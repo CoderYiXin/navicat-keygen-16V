@@ -24,6 +24,10 @@
 
 博客地址直达：[Typora](https://lijunyi.xyz/blogs/app/2022/Typora.html)
 
+# Sublime Text 4 (Build 4143)注册教程
+
+`Notepad++`又在搞事情，如果你还在用想找替换，不妨试试`Sublime`，注册教程已经安排上了，[点击直达](https://github.lijunyi.xyz/blogs/app/2023/sublimeText.html)
+
 # IDEA JRebel激活教程
 博客地址直达：[IDEA JRebel激活教程](https://lijunyi.xyz/blogs/app/2022/JRebel.html)
 
