@@ -15,14 +15,15 @@
 
 (PS:成功激活后的小伙伴麻烦点点Starred 😁)
 
-# 最终效果图
-![V16.1.11](https://user-images.githubusercontent.com/40384503/227885735-34a8f7a9-4cec-4f62-821c-876bcb6bf9b4.png)
-
-
-
 # 注册机共享
 
 博客地址直达：[NavicatPremium16](https://lijunyi.xyz/blogs/app/2022/NavicatPremium16.html)
+
+# 最终效果图
+![V16.1.11](https://user-images.githubusercontent.com/40384503/227885735-34a8f7a9-4cec-4f62-821c-876bcb6bf9b4.png)
+
+# MAC版本请查看Xclient
+[mac-navicat-premium](https://xclient.info/s/navicat-premium.html)
 
 # Typora最新版破解
 
