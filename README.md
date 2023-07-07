@@ -3,6 +3,9 @@
 
 工具下载请看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.2.3)
 
+# 20230707更新
+新增`dll`文件 `X32`版本与`X64`版本
+
 # navicat-keygen-16.1.x 
 **Navicat16.1.x最新版本的注册机**
 
