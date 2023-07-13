@@ -3,6 +3,8 @@
 
 工具下载请看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.2.3)
 
+**20230713** 新增阿里云盘地址：[navicat16.2.x](http://myalist.lijunyi.xyz/blog/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/navicat16.2.x)
+
 # 20230707更新
 新增`dll`文件 `X32`版本与`X64`版本
 
