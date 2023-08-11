@@ -1,6 +1,3 @@
-# 关于 `dll` 文件能否激活问题
-详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6#issuecomment-1670540546) ,因为目前没有使用 `windows` 无法测试，使用 `windows` 的小伙伴可以反馈下，`dll`文件是否有效 ？
-
 # navicat16.2.5
 16.2.x版本激活方式经测试支持直接使用官方升级到16.2.5
 
@@ -15,7 +12,7 @@
 新增`dll`文件 `X32`版本与`X64`版本
 
 # navicat-keygen-16.1.x 
-**Navicat16.1.x最新版本的注册机**
+**Navicat16.1.x版本的注册机**
 
 - 2023-05-05：**最新版 V16.1.15** 测试能激活成功！
 - **V16.1.11** 测试能激活成功！
