@@ -1,7 +1,7 @@
-# navicat16.2.5
-16.2.x版本激活方式经测试支持直接使用官方升级到16.2.5
+# navicat16.2.7
+16.2.7直接升
 
-# Navicat16.2.3 激活新方式
+# Navicat16.2.x 激活新方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
 
 工具下载请看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.2.3)
