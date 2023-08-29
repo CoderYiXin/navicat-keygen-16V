@@ -1,7 +1,7 @@
-# navicat16.2.7
-16.2.7直接升
+# navicat16.2.8
+最新版16.2.8直接升
 
-# Navicat16.2.x 激活新方式
+# Navicat16.2.x 以上版本激活方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
 
 工具下载请看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.2.3)
@@ -11,16 +11,10 @@
 # 20230707更新
 新增`dll`文件 `X32`版本与`X64`版本
 
-# navicat-keygen-16.1.x 
+# navicat-keygen-16.1.x 版本激活方式
 **Navicat16.1.x版本的注册机**
 
 - 2023-05-05：**最新版 V16.1.15** 测试能激活成功！
-- **V16.1.11** 测试能激活成功！
-- **V16.1.9** 测试能激活成功！
-- **V16.1.8** 测试能激活成功！
-- **V16.1.6** 测试能激活成功！
-- **V16.1.4** 测试能激活成功！
-- **v16.1.3** 测试能激活成功!
 
 **注意点** ：
 - 1、注册机断网有网都可以激活，最主要的是第一步 勾选 `HOSTS` , 然后点击 `Patch` 按钮！第一步操作之后，查看自己的`HOSTS`文件有没有成功添加`127.0.0.1	activate.navicat.com`。仔细看教程🚨
