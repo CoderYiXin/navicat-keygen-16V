@@ -35,7 +35,7 @@
 
 公众号文章直达：[开发者必备！IDEA 2023.2安装与激活保姆级教程](https://mp.weixin.qq.com/s/HonXXnjvHh9wKyYg3eqdWg)
 
-# Typora最新版破解
+# Typora最新版破解（更新）
 
 博客地址直达：[Typora](https://lijunyi.xyz/blogs/app/2022/Typora.html)
 
@@ -47,14 +47,10 @@
 博客地址直达：[IDEA JRebel激活教程](https://lijunyi.xyz/blogs/app/2022/JRebel.html)
 
 # IDM 最新激活方式
+
 最新 IDM 激活方式，请直接查看公众号推文：[敏感资源，1DM最新正版激活](https://mp.weixin.qq.com/s/fSsv-yiyTpQIyPGNkmdRng)
+
 # IDM6.41 Build 2(May/31/2022)
 
 博客地址直达：[IDM6.41 Build 2](https://lijunyi.xyz/blogs/app/2022/idm.html)
-
-# IDM6.41Build3(Oct/03/2022)
-![微信截图_20221019093154](https://user-images.githubusercontent.com/40384503/196576165-69658ec0-a49b-4a30-ba45-a367ae128e7b.png)
-## 说明
-- 直接安装，安装完即为注册版，免激活！
-- [*度云盘](https://pan.baidu.com/s/1za6taKw8IyToc1upSngFZg?pwd=c7kf)
 
