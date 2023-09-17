@@ -8,9 +8,6 @@
 
 **20230713** 新增阿里云盘地址：[navicat16.2.x](http://myalist.lijunyi.xyz/blog/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/navicat16.2.x)
 
-# 20230707更新
-新增`dll`文件 `X32`版本与`X64`版本
-
 # navicat-keygen-16.1.x 版本激活方式
 **Navicat16.1.x版本的注册机**
 
@@ -33,6 +30,10 @@
 
 # MAC版本请查看Xclient
 [mac-navicat-premium](https://xclient.info/s/navicat-premium.html)
+
+# JetBrains全家桶通用激活教程
+
+公众号文章直达：[开发者必备！IDEA 2023.2安装与激活保姆级教程](https://mp.weixin.qq.com/s/HonXXnjvHh9wKyYg3eqdWg)
 
 # Typora最新版破解
 
