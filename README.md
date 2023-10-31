@@ -1,7 +1,14 @@
-# navicat16.3.0
+# MAC AppStore 16.1.0 及后续版本通杀激活
+
+[点击issues查看激活教程](https://github.com/LiJunYi2/navicat-keygen-16V/issues/17)
+
+# 新增防失联地址
+[gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
+
+# WIN navicat16.3.0
 最新版16.3.0版本可以直接升！！如果不想用`dll`文件的，就用重置试用脚本+win的定时任务。[重置试用脚本](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16)
 
-# Navicat16.2.x 以上版本激活方式
+# WIN Navicat16.2.x 以上版本激活方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
 
 工具下载请看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.2.3)
@@ -26,10 +33,6 @@
 
 # 最终效果图
 ![V16.1.15](https://user-images.githubusercontent.com/40384503/236413741-4426040d-16f1-4d3b-a99c-b2bbf5fdeed9.png)
-
-
-# MAC版本请查看Xclient
-[mac-navicat-premium](https://xclient.info/s/navicat-premium.html)
 
 # JetBrains全家桶通用激活教程
 
