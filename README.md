@@ -1,4 +1,9 @@
-# MAC AppStore 16.1.0 及后续版本通杀激活
+# Clash各版本
+
+近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://www.aliyundrive.com/s/RJuEGk8Cr2y) ，提取码: **ry98**
+
+
+# Navicat MAC AppStore 16.1.0版本及后续版本通杀激活
 
 [点击issues查看激活教程](https://github.com/LiJunYi2/navicat-keygen-16V/issues/17)
 
