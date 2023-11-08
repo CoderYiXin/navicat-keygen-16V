@@ -41,7 +41,7 @@
 
 # JetBrains全家桶通用激活教程
 
-公众号文章直达：[开发者必备！IDEA 2023.2安装与激活保姆级教程](https://mp.weixin.qq.com/s/HonXXnjvHh9wKyYg3eqdWg)
+公众号文章直达：[开发者必备！IDEA 2023.2安装与激活保姆级教程](https://riid7yr8pux.feishu.cn/docx/TxGhdiMg1oDVbexEuUKcQG7nnYe?from=from_copylink)
 
 # Typora最新版破解（更新）
 
