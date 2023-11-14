@@ -10,8 +10,8 @@
 # 新增防失联地址
 [gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
 
-# WIN navicat16.3.0
-最新版16.3.0版本可以直接升！！如果不想用`dll`文件的，就用重置试用脚本+win的定时任务。[重置试用脚本](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16)
+# WIN navicat16.3.2
+最新版16.3.2版本可以直接升！！如果不想用`dll`文件的，就用重置试用脚本+win的定时任务。[重置试用脚本](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16)
 
 # WIN Navicat16.2.x 以上版本激活方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
