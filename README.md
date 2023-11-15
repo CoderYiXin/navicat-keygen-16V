@@ -1,8 +1,3 @@
-# Clash各版本
-
-近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://www.aliyundrive.com/s/RJuEGk8Cr2y) ，提取码: **ry98**
-
-
 # Navicat MAC AppStore 16.1.0版本及后续版本通杀激活
 
 [点击issues查看激活教程](https://github.com/LiJunYi2/navicat-keygen-16V/issues/17)
@@ -58,7 +53,8 @@
 
 最新 IDM 激活方式，请直接查看公众号推文：[敏感资源，1DM最新正版激活](https://mp.weixin.qq.com/s/fSsv-yiyTpQIyPGNkmdRng)
 
-# IDM6.41 Build 2(May/31/2022)
+# Clash各版本
 
-博客地址直达：[IDM6.41 Build 2](https://lijunyi.xyz/blogs/app/2022/idm.html)
+近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://www.aliyundrive.com/s/RJuEGk8Cr2y) ，提取码: **ry98**
+
 
