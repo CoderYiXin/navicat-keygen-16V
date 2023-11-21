@@ -55,6 +55,6 @@
 
 # Clash各版本
 
-近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://www.aliyundrive.com/s/RJuEGk8Cr2y) ，提取码: **ry98**
+近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://mega.nz/folder/Q2VhhSIa#CVMhBxBzo1f9vn08VPIwHQ)
 
 
