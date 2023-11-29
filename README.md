@@ -1,3 +1,6 @@
+# 使用重置脚本的来看看
+如果有使用重置脚本的，可以看看这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16) ，不需要配合定时任务了。
+
 # Navicat MAC AppStore 16.1.0版本及后续版本通杀激活
 
 [点击issues查看激活教程](https://github.com/LiJunYi2/navicat-keygen-16V/issues/17)
