@@ -1,3 +1,6 @@
+# WIN navicat16.3.3
+16.3.2->16.3.3最新版,直接升级可能会存在激活失败的情况，[详见issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11). 建议先备份数据库再去尝试升级。
+
 # 使用重置脚本的来看看
 如果有使用重置脚本的，可以看看这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16) ，不需要配合定时任务了。
 
@@ -7,9 +10,6 @@
 
 # 新增防失联地址
 [gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
-
-# WIN navicat16.3.2
-最新版16.3.2版本可以直接升！！如果不想用`dll`文件的，就用重置试用脚本+win的定时任务。[重置试用脚本](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16)
 
 # WIN Navicat16.2.x 以上版本激活方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
