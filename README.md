@@ -54,7 +54,7 @@
 
 # IDM 最新激活方式
 
-最新 IDM 激活方式，请直接查看公众号推文：[敏感资源，1DM最新正版激活](https://mp.weixin.qq.com/s/fSsv-yiyTpQIyPGNkmdRng)
+最新 IDM 激活方式，请直接查看公众号推文：[敏感资源，1DM最新正版激活](https://riid7yr8pux.feishu.cn/docx/COebdeaFFo8P3LxGN96cowbhnOb)
 
 # Clash各版本
 
