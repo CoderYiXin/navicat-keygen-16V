@@ -14,9 +14,6 @@
 # WIN Navicat16.2.x 以上版本激活方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
 
-工具下载请看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.2.3)
-
-**20230713** 新增阿里云盘地址：[navicat16.2.x](http://myalist.lijunyi.xyz/blog/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/navicat16.2.x)
 
 # navicat-keygen-16.1.x 版本激活方式
 **Navicat16.1.x版本的注册机**
