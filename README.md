@@ -1,3 +1,5 @@
+# MAC 16.3.4最新版
+MAC 16.3.4最新版已更新，点击查看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.3.4)
 # win 16.3.4版本谨慎升级！
 16.3.4有小伙伴测试不能激活，谨慎升级！
 
@@ -6,10 +8,6 @@
 
 # 使用重置脚本的来看看
 如果有使用重置脚本的，可以看看这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16) ，不需要配合定时任务了。
-
-# Navicat MAC AppStore 16.1.0版本及后续版本通杀激活
-
-[点击issues查看激活教程](https://github.com/LiJunYi2/navicat-keygen-16V/issues/17)
 
 # 新增防失联地址
 [gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
