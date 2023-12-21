@@ -1,18 +1,16 @@
 # MAC 16.3.4最新版
 MAC 16.3.4最新版已更新，点击查看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.3.4)
+
 # win 16.3.4版本谨慎升级！
 16.3.4有小伙伴测试不能激活，谨慎升级！
 
 # WIN navicat16.3.3
 16.3.2->16.3.3最新版,直接升级可能会存在激活失败的情况，[详见issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11). 建议先备份数据库再去尝试升级。
 
-# 使用重置脚本的来看看
-如果有使用重置脚本的，可以看看这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/16) ，不需要配合定时任务了。
-
 # 新增防失联地址
 [gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
 
-# WIN Navicat16.2.x 以上版本激活方式
+# WIN Navicat16.2.x-16.3.3版本激活方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
 
 
@@ -35,7 +33,7 @@ MAC 16.3.4最新版已更新，点击查看[releases](https://github.com/LiJunYi
 # 最终效果图
 ![V16.1.15](https://user-images.githubusercontent.com/40384503/236413741-4426040d-16f1-4d3b-a99c-b2bbf5fdeed9.png)
 
-# JetBrains全家桶通用激活教程
+# JetBrains全家桶通用教程
 
 Idea2023.3最新版测试没问题，可以直接升级：[开发者必备！IDEA 2023.3安装与激活保姆级教程](https://riid7yr8pux.feishu.cn/docx/TxGhdiMg1oDVbexEuUKcQG7nnYe?from=from_copylink)
 ![idea2023 3](https://github.com/LiJunYi2/navicat-keygen-16V/assets/40384503/2b70d6dd-2bc5-4dd0-8624-e6de8e74c7a9)
@@ -60,4 +58,9 @@ Idea2023.3最新版测试没问题，可以直接升级：[开发者必备！IDE
 
 近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://mega.nz/folder/Q2VhhSIa#CVMhBxBzo1f9vn08VPIwHQ)
 
+# 免责声明
+本项目所发布的一切资源仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。 所有资源信息来自网络，版权争议与本项目(人)无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。 
 
+附: 二○○二年一月一日《计算机软件保护条例》第十七条规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬！鉴于此，也希望大家按此说明研究软件！
+
+本项目所有资源均来自网络转载，版权归原作者和公司所有，如果有侵犯到您的权益，请第一时间联系删除！
