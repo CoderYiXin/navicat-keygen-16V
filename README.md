@@ -1,8 +1,8 @@
 # MAC 16.3.5最新版
 MAC 16.3.5最新版已更新，点击查看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.3.5)
 
-# win 16.3.7版本
-有小伙伴测试16.3.5 -> 16.3.7升级成功！放心冲。
+# win 16.3.8版本
+ 已有小伙伴测试`16.3.8`升级成功！继续冲。
 
 # 新增防失联地址
 [gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
