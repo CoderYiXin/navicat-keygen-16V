@@ -1,19 +1,19 @@
-# MAC 16.3.7最新版
-MAC 16.3.7最新版已更新，点击查看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.3.x)
+# 防失联地址
+[gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
 
-# win 16.3.8版本
+# navicat
+## MAC 16.3.7最新版
+ MAC 16.3.7最新版已更新，点击查看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.3.x)
+
+## WIN 16.3.8版本
  已有小伙伴测试`16.3.8`升级成功！继续冲。
  
  **Tips** : 对于`16.3.8`如何才算 JiHuo 成功的，可以在此[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 询问测试过的小伙伴，因为我已经换到了`MAC`，所以`windows`平台的版本都是由大家自行测试并反馈的。有问题可以在这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 进行交流。
 
-# 新增防失联地址
-[gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
-
-# WIN Navicat16.2.x-16.3.3版本激活方式
+## WIN 16.2.x-16.3.x版本学习方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
 
-
-# navicat-keygen-16.1.x 版本激活方式
+## navicat-keygen-16.1.x 版本学习方式
 **Navicat16.1.x版本的注册机**
 
 - 2023-05-05：**最新版 V16.1.15** 测试能激活成功！
@@ -25,37 +25,33 @@ MAC 16.3.7最新版已更新，点击查看[releases](https://github.com/LiJunYi
 
 (PS:成功激活后的小伙伴麻烦点点Starred 😁)
 
-# 注册机共享
+### 注册机共享
 
 博客地址直达：[NavicatPremium16](https://lijunyi.xyz/blogs/app/2022/NavicatPremium16.html)
 
-# 最终效果图
-![V16.1.15](https://user-images.githubusercontent.com/40384503/236413741-4426040d-16f1-4d3b-a99c-b2bbf5fdeed9.png)
+# JetBrains全家桶学习教程
 
-# JetBrains全家桶通用教程
+Idea2023.3.5最新版学习教程，2024全新的方式，支持自定义`licenseeName`与`expiryDate`，某些插件(())完美解决：[开发者必备！IDEA 2023.3.x安装与激活保姆级教程](https://riid7yr8pux.feishu.cn/docx/TxGhdiMg1oDVbexEuUKcQG7nnYe?from=from_copylink)
 
-Idea2023.3最新版测试没问题，可以直接升级：[开发者必备！IDEA 2023.3安装与激活保姆级教程](https://riid7yr8pux.feishu.cn/docx/TxGhdiMg1oDVbexEuUKcQG7nnYe?from=from_copylink)
-![idea2023 3](https://github.com/LiJunYi2/navicat-keygen-16V/assets/40384503/2b70d6dd-2bc5-4dd0-8624-e6de8e74c7a9)
-
-
-# Typora最新版破解（更新）
+# Typora最新版学习（更新）
 
 博客地址直达：[Typora](https://lijunyi.xyz/blogs/app/2022/Typora.html)
 
-# Sublime Text 4 (Build 4143)注册教程
+# Sublime Text 4 (Build 4143)学习教程
 
-`Notepad++`又在搞事情，如果你还在用想找替换，不妨试试`Sublime`，注册教程已经安排上了，[点击直达](https://github.lijunyi.xyz/blogs/app/2023/sublimeText.html)
+`Notepad++`又在搞事情，如果你还在用想找替换，不妨试试`Sublime`，学习教程已经安排上了，[点击直达](https://github.lijunyi.xyz/blogs/app/2023/sublimeText.html)
 
-# IDEA JRebel激活教程
-博客地址直达：[IDEA JRebel激活教程](https://lijunyi.xyz/blogs/app/2022/JRebel.html)
+# IDEA JRebel学习教程
+博客地址直达：[IDEA JRebel学习教程](https://lijunyi.xyz/blogs/app/2022/JRebel.html)
 
-# IDM 最新激活方式
+# IDM 最新学习方式
 
-最新 IDM 激活方式，请直接查看公众号推文：[敏感资源，1DM最新正版激活](https://riid7yr8pux.feishu.cn/docx/COebdeaFFo8P3LxGN96cowbhnOb)
+最新 1DM 学习方式，[1DM最新学习方式](https://riid7yr8pux.feishu.cn/docx/COebdeaFFo8P3LxGN96cowbhnOb)
 
 # Clash各版本
 
 近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://mega.nz/folder/Q2VhhSIa#CVMhBxBzo1f9vn08VPIwHQ)
+新出了一个 [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 # 免责声明
 本项目所发布的一切资源仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。 所有资源信息来自网络，版权争议与本项目(人)无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。 
