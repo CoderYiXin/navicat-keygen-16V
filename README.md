@@ -53,6 +53,9 @@ Idea2023.3.5最新版学习教程，2024全新的方式，支持自定义`licens
 近期`clash`的各仓库均删除了，给大家收集了现存的一些版本，需要自取：[跳转云盘获取](https://mega.nz/folder/Q2VhhSIa#CVMhBxBzo1f9vn08VPIwHQ)
 新出了一个 [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
+# FinalShell 4.3.10 Active
+[finalshell最新专业&高级版](https://github.com/LiJunYi2/FinalShell-Active)
+
 # 免责声明
 本项目所发布的一切资源仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。 所有资源信息来自网络，版权争议与本项目(人)无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。 
 
