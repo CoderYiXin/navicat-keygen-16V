@@ -4,6 +4,8 @@
 # navicat
 ## MAC 16.3.7最新版
  MAC 16.3.7最新版已更新，点击查看[releases](https://github.com/LiJunYi2/navicat-keygen-16V/releases/tag/v16.3.x)
+ 
+ [MAC 重置试用脚本](https://github.com/LiJunYi2/navicat-keygen-16V/issues/34)
 
 ## WIN 16.3.9版本
  已有小伙伴测试`16.3.9`升级成功！继续冲。
