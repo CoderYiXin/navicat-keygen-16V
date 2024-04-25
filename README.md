@@ -33,7 +33,9 @@
 
 # JetBrains全家桶学习教程
 
-Idea2023.3.5最新版学习教程，2024全新的方式，支持自定义`licenseeName`与`expiryDate`，某些插件(())完美解决：[开发者必备！IDEA 2023.3.x安装与激活保姆级教程](https://riid7yr8pux.feishu.cn/docx/TxGhdiMg1oDVbexEuUKcQG7nnYe?from=from_copylink)
+Idea2024.x最新版学习教程，2024全新的方式，支持自定义`licenseeName`与`expiryDate`，某些插件(())完美解决：[开发者必备！IDEA 2023.3.x安装与激活保姆级教程](https://riid7yr8pux.feishu.cn/docx/TxGhdiMg1oDVbexEuUKcQG7nnYe?from=from_copylink)
+
+更新了`idea`最新某括号的xxx，自行查看文档
 
 # Typora最新版学习（更新）
 
