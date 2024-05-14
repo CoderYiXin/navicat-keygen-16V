@@ -10,7 +10,7 @@
 ## WIN 17.0.3版本
  已有小伙伴测试`17.0.3`升级成功！继续冲。
  
- **Tips** : 对于`16.3.x`如何才算 JiHuo 成功的，可以在此[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 询问测试过的小伙伴，因为我已经换到了`MAC`，所以`windows`平台的版本都是由大家自行测试并反馈的。有问题可以在这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 进行交流。
+ **Tips** : 对于如何才算 JiHuo 成功的，可以在此[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 询问测试过的小伙伴，因为我已经换到了`MAC`，所以`windows`平台的版本都是由大家自行测试并反馈的。有问题可以在这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 进行交流。
 
 ## WIN 16.2.x-16.3.x版本学习方式
 激活工具由[BoneBee](https://github.com/BoneBee)提供，详见[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/6) 。成功的小伙伴可以去`issues`感谢`BoneBee`👏👏👏
