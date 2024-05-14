@@ -7,8 +7,8 @@
  
  [MAC 重置试用脚本](https://github.com/LiJunYi2/navicat-keygen-16V/issues/34)
 
-## WIN 16.3.9版本
- 已有小伙伴测试`16.3.9`升级成功！继续冲。
+## WIN 17.0.3版本
+ 已有小伙伴测试`17.0.3`升级成功！继续冲。
  
  **Tips** : 对于`16.3.x`如何才算 JiHuo 成功的，可以在此[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 询问测试过的小伙伴，因为我已经换到了`MAC`，所以`windows`平台的版本都是由大家自行测试并反馈的。有问题可以在这个[issues](https://github.com/LiJunYi2/navicat-keygen-16V/issues/11) 进行交流。
 
