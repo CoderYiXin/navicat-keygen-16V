@@ -1,5 +1,5 @@
 # 防失联地址
-[gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git)
+[gitlab-navicat-keygen-16V](https://gitlab.com/ajiajishu/navicat-keygen-16V.git) ，[后面本项目可能就删除了，东西全放在我博客上，真的难搞....](https://github.com/LiJunYi2/navicat-keygen-16V/issues/38)
 
 # navicat
 ## MAC 16.3.7最新版
